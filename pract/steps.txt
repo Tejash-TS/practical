@@ -1,0 +1,7 @@
+VS code terminal steps
+
+Step 1. cd Downloads
+
+Step 2. g++ BFS.cpp -fopenmp -o BFS
+
+Step 3  .\BFS.exe
